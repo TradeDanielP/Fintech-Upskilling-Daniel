@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gMjXScS/dPc=",
+  "dgSpecHash": "quY9FGEwcs4=",
   "success": true,
   "projectFilePath": "/home/riwi/Escritorio/Fintech-Upskilling-Daniel/Fintech/FintechWebAPI/FintechWebAPI.csproj",
   "expectedPackageFiles": [
+    "/home/riwi/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/home/riwi/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/home/riwi/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",
     "/home/riwi/.nuget/packages/entityframework/6.5.1/entityframework.6.5.1.nupkg.sha512",

@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FVgwWEvYM4DPmJVcG/DvZK9vROUKrgSi9jh4vmcX0OVLFqr/mKWuj1rY8MBVV9WG03t4hfjpHI7hcsqC8p1eEw==",
+  "dgSpecHash": "cOvzG8MSScA=",
   "success": true,
-  "projectFilePath": "/home/rwadmin/Escritorio/Fintech-Upskilling-Daniel/Fintech/FintechMvc/FintechMvc.csproj",
-  "expectedPackageFiles": [
-    "/home/rwadmin/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
-    "/home/rwadmin/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/riwi/Escritorio/Fintech-Upskilling-Daniel/Fintech/FintechMvc/FintechMvc.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
