@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FintechWebAPI", "FintechWebAPI\FintechWebAPI.csproj", "{C151F969-326E-494A-8F71-11E6DEC498C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FintechMvc", "FintechMvc\FintechMvc.csproj", "{F377ECFE-68E9-4EE1-A6C9-FF73C9DFD356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FintechLibrary", "FintechLibrary\FintechLibrary.csproj", "{7B60008C-C3BB-443C-A1BC-1D751CE235B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C151F969-326E-494A-8F71-11E6DEC498C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C151F969-326E-494A-8F71-11E6DEC498C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C151F969-326E-494A-8F71-11E6DEC498C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C151F969-326E-494A-8F71-11E6DEC498C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F377ECFE-68E9-4EE1-A6C9-FF73C9DFD356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F377ECFE-68E9-4EE1-A6C9-FF73C9DFD356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F377ECFE-68E9-4EE1-A6C9-FF73C9DFD356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F377ECFE-68E9-4EE1-A6C9-FF73C9DFD356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B60008C-C3BB-443C-A1BC-1D751CE235B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B60008C-C3BB-443C-A1BC-1D751CE235B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B60008C-C3BB-443C-A1BC-1D751CE235B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B60008C-C3BB-443C-A1BC-1D751CE235B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1IKY2bU3vZmbTDl2G7YoWvvllwIyQ71IZJNHuWUWYWo=",
+  "Source": "FintechWebAPI",
+  "BasePath": "_content/FintechWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
