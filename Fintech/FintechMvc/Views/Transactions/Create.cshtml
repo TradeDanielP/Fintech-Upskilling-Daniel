@@ -1,0 +1,52 @@
+@model FintechLibrary.DTOs.TransactionDTO
+
+<div class="container mt-4">
+    <h2 class="mb-3">Register Transaction</h2>
+    <form asp-action="Create" method="post" class="needs-validation" novalidate>
+        <div class="mb-3">
+            <label for="SourceAccountId" class="form-label">Source Account</label>
+            <input id="SourceAccountId" asp-for="SourceAccountId" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label for="TargetAccountId" class="form-label">Target Account</label>
+            <input id="TargetAccountId" asp-for="TargetAccountId" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label for="Amount" class="form-label">Amount</label>
+            <input id="Amount" asp-for="Amount" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label for="TransactionType" class="form-label">Transaction Type</label>
+            <input id="TransactionType" asp-for="TransactionType" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Register</button>
+    </form>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $("form").on("submit", function (e) {
+            let isValid = true;
+
+            $("input, textarea").each(function () {
+                if (!$(this).val()) {
+                    isValid = false;
+                    $(this).css("border", "1px solid red");
+                }
+            });
+
+            if (!isValid) {
+                e.preventDefault();
+                alert("Por favor, completa todos los campos.");
+            }
+        });
+    });
+</script>
+
+<script>
+    $("#refreshAccounts").click(function () {
+        $.get("/Accounts/Index", function (data) {
+            $("#accountList").html(data);
+        });
+    });
+</script>

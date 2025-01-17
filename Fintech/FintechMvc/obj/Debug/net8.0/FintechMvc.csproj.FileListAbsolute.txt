@@ -29,3 +29,39 @@
 /home/riwi/Escritorio/Fintech-Upskilling-Daniel/Fintech/FintechMvc/obj/Debug/net8.0/FintechMvc.pdb
 /home/riwi/Escritorio/Fintech-Upskilling-Daniel/Fintech/FintechMvc/obj/Debug/net8.0/FintechMvc.genruntimeconfig.cache
 /home/riwi/Escritorio/Fintech-Upskilling-Daniel/Fintech/FintechMvc/obj/Debug/net8.0/ref/FintechMvc.dll
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\bin\Debug\net8.0\appsettings.json
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\bin\Debug\net8.0\FintechMvc.staticwebassets.runtime.json
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\bin\Debug\net8.0\FintechMvc.exe
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\bin\Debug\net8.0\FintechMvc.deps.json
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\bin\Debug\net8.0\FintechMvc.runtimeconfig.json
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\bin\Debug\net8.0\FintechMvc.dll
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\bin\Debug\net8.0\FintechMvc.pdb
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\bin\Debug\net8.0\FintechLibrary.dll
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\bin\Debug\net8.0\FintechLibrary.pdb
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\FintechMvc.csproj.AssemblyReference.cache
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\FintechMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\FintechMvc.AssemblyInfoInputs.cache
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\FintechMvc.AssemblyInfo.cs
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\FintechMvc.csproj.CoreCompileInputs.cache
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\FintechMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\FintechMvc.RazorAssemblyInfo.cache
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\FintechMvc.RazorAssemblyInfo.cs
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\FintechMvc.sourcelink.json
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\staticwebassets\msbuild.FintechMvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\staticwebassets\msbuild.build.FintechMvc.props
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FintechMvc.props
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FintechMvc.props
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\scopedcss\bundle\FintechMvc.styles.css
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\scopedcss\projectbundle\FintechMvc.bundle.scp.css
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\FintechMvc.csproj.Up2Date
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\FintechMvc.dll
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\refint\FintechMvc.dll
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\FintechMvc.pdb
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\FintechMvc.genruntimeconfig.cache
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc\obj\Debug\net8.0\ref\FintechMvc.dll

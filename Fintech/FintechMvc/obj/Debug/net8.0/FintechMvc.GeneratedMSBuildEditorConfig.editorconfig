@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechMvc
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/FDV Poblado/Desktop/Fintech-Upskilling-Daniel/Fintech/FintechMvc/Views/Accounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FDV Poblado/Desktop/Fintech-Upskilling-Daniel/Fintech/FintechMvc/Views/Accounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/FDV Poblado/Desktop/Fintech-Upskilling-Daniel/Fintech/FintechMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,6 +40,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/FDV Poblado/Desktop/Fintech-Upskilling-Daniel/Fintech/FintechMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FDV Poblado/Desktop/Fintech-Upskilling-Daniel/Fintech/FintechMvc/Views/Transactions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FDV Poblado/Desktop/Fintech-Upskilling-Daniel/Fintech/FintechMvc/Views/Transactions/History.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXEhpc3RvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/FDV Poblado/Desktop/Fintech-Upskilling-Daniel/Fintech/FintechMvc/Views/_ViewImports.cshtml]

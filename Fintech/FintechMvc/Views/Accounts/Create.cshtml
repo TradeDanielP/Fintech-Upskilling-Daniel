@@ -1,0 +1,53 @@
+@model FintechLibrary.DTOs.AccountDTO
+
+<div class="container mt-4">
+    <h2 class="mb-3">Create Account</h2>
+    <form asp-action="Create" method="post" class="needs-validation" novalidate>
+        <div class="mb-3">
+            <label for="Holder" class="form-label">Holder</label>
+            <input id="Holder" asp-for="Holder" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label for="AccountNumber" class="form-label">Account Number</label>
+            <input id="AccountNumber" asp-for="AccountNumber" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label for="Balance" class="form-label">Balance</label>
+            <input id="Balance" asp-for="Balance" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label for="AccountType" class="form-label">Account Type</label>
+            <input id="AccountType" asp-for="AccountType" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Save</button>
+    </form>
+</div>
+
+
+<script>
+    $(document).ready(function () {
+        $("form").on("submit", function (e) {
+            let isValid = true;
+
+            $("input, textarea").each(function () {
+                if (!$(this).val()) {
+                    isValid = false;
+                    $(this).css("border", "1px solid red");
+                }
+            });
+
+            if (!isValid) {
+                e.preventDefault();
+                alert("Por favor, completa todos los campos.");
+            }
+        });
+    });
+</script>
+
+<script>
+    $("#refreshAccounts").click(function () {
+        $.get("/Accounts/Index", function (data) {
+            $("#accountList").html(data);
+        });
+    });
+</script>
