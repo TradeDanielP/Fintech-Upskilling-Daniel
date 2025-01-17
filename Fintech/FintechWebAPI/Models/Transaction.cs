@@ -8,5 +8,9 @@ namespace FintechWebAPI.Models
         public decimal Amount { get; set; }
         public DateTime Date { get; set; }
         public string TransactionType { get; set; } // Ejemplo: "Transfer", "Deposit", "Withdrawal"
+        
+        // Relaciones de navegación
+        public Account SourceAccount { get; set; }
+        public Account TargetAccount { get; set; }
     }
 }

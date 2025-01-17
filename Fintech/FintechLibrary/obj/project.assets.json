@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/riwi/.nuget/packages/": {}
+    "C:\\Users\\FDV Poblado\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/riwi/Escritorio/Fintech-Upskilling-Daniel/Fintech/FintechLibrary/FintechLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\FDV Poblado\\Desktop\\Fintech-Upskilling-Daniel\\Fintech\\FintechLibrary\\FintechLibrary.csproj",
       "projectName": "FintechLibrary",
-      "projectPath": "/home/riwi/Escritorio/Fintech-Upskilling-Daniel/Fintech/FintechLibrary/FintechLibrary.csproj",
-      "packagesPath": "/home/riwi/.nuget/packages/",
-      "outputPath": "/home/riwi/Escritorio/Fintech-Upskilling-Daniel/Fintech/FintechLibrary/obj/",
+      "projectPath": "C:\\Users\\FDV Poblado\\Desktop\\Fintech-Upskilling-Daniel\\Fintech\\FintechLibrary\\FintechLibrary.csproj",
+      "packagesPath": "C:\\Users\\FDV Poblado\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\FDV Poblado\\Desktop\\Fintech-Upskilling-Daniel\\Fintech\\FintechLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/riwi/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\FDV Poblado\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
