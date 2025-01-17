@@ -1,0 +1,13 @@
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechLibrary\bin\Release\net8.0\FintechLibrary.deps.json
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechLibrary\bin\Release\net8.0\FintechLibrary.dll
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechLibrary\bin\Release\net8.0\FintechLibrary.pdb
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechLibrary\obj\Release\net8.0\FintechLibrary.csproj.AssemblyReference.cache
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechLibrary\obj\Release\net8.0\FintechLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechLibrary\obj\Release\net8.0\FintechLibrary.AssemblyInfoInputs.cache
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechLibrary\obj\Release\net8.0\FintechLibrary.AssemblyInfo.cs
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechLibrary\obj\Release\net8.0\FintechLibrary.csproj.CoreCompileInputs.cache
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechLibrary\obj\Release\net8.0\FintechLibrary.sourcelink.json
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechLibrary\obj\Release\net8.0\FintechLibrary.dll
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechLibrary\obj\Release\net8.0\refint\FintechLibrary.dll
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechLibrary\obj\Release\net8.0\FintechLibrary.pdb
+C:\Users\FDV Poblado\Desktop\Fintech-Upskilling-Daniel\Fintech\FintechLibrary\obj\Release\net8.0\ref\FintechLibrary.dll

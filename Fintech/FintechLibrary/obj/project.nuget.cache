@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0mKoPJY5KAg=",
+  "dgSpecHash": "cjYCGT7SWns=",
   "success": true,
   "projectFilePath": "C:\\Users\\FDV Poblado\\Desktop\\Fintech-Upskilling-Daniel\\Fintech\\FintechLibrary\\FintechLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\FDV Poblado\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
